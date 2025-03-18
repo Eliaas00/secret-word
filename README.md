@@ -29,3 +29,6 @@ npm start
 
 Abra http://localhost:3000 no seu navegador para visualizar o projeto.
 `````
+
+Se preferir, abra https://secret-word-weld.vercel.app/ no seu navegador para visualizar.
+`````
